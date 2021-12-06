@@ -1,0 +1,1 @@
+g++ model.cpp -o model -lsoil -lopengl32 -lglew32 -lglfw3 -lglu32 -lgdi32 -IC:/MinGW/include/glm
